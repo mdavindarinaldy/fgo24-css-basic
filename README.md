@@ -1,13 +1,25 @@
-# About This Project
+# HTML Example Project
 
-## What for?
+This project is for training only. This project uses basic HTML tag such as: <p>..</p>; <i>...<i>; <mark>...</mark>; <a>...</a>; etc. 
 
-This project is for training HTML-basic only.
+## How to Run this Project
 
-The content itself talks about Muhammad Davinda Rinaldy a little bit. What's he like, what vision does he see for himself.
+1. Clone this project
+```
+git clone https://github.com/mdavindarinaldy/fgo24-html-basic.git
+```
+2. Install dependencies
+```
+npm install
+``` 
+3. Run the project
+```
+npm run dev
+```
+4. Project will running on http://localhost:8080
 
-## How to start this project?
+## Dependencies
+This project using node.js to run, make sure to install node on your machine. Other than that, this project also using live-server to mock http local server environment.
 
-To start this project, you have to fork this project first into your own repository, then clone your repository to your local, after that you have to initialize it and install live-server.
-
-When you done all that, you can run the project using "npm run dev".
+## Basic Information
+This project is part of training in Kodacademy Bootcamp Batch 24 made by Muhammad Davinda Rinaldy
