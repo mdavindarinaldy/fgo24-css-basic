@@ -6,7 +6,7 @@ This project is for training only. This project uses basic HTML tag such as: `<p
 
 1. Clone this project
 ```
-git clone https://github.com/mdavindarinaldy/fgo24-html-basic.git
+git clone https://github.com/mdavindarinaldy/fgo24-css-basic.git
 ```
 2. Install dependencies
 ```
