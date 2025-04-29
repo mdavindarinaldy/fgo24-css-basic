@@ -1,6 +1,6 @@
 # HTML Example Project
 
-This project is for training only. This project uses basic HTML tag such as: <p>..</p>; <i>...<i>; <mark>...</mark>; <a>...</a>; etc. 
+This project is for training only. This project uses basic HTML tag such as: `<p>..</p>`; `<i>...<i>`; `<mark>...</mark>`; `<a>...</a>`; etc. 
 
 ## How to Run this Project
 
